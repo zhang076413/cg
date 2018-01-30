@@ -41,8 +41,6 @@ namespace ObjTool
 
             return 1;
         }
-
-
         //end
     }
 

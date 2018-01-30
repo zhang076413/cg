@@ -23,5 +23,10 @@ namespace CG
             this.pictureBox1.Image = Programx.drawBitmap();
          
         }
+
+        private void pictureBox1_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }

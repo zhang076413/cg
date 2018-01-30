@@ -7,3 +7,4 @@ D:\CSharpProjects\cg\obj\Debug\CG.csproj.GenerateResource.Cache
 D:\CSharpProjects\cg\obj\Debug\CG.exe
 D:\CSharpProjects\cg\obj\Debug\CG.pdb
 D:\CSharpProjects\cg\obj\Debug\CG.Form1.resources
+D:\CSharpProjects\cg\obj\Debug\CG.csprojResolveAssemblyReference.cache

@@ -1,0 +1,1 @@
+D:\CSharpProjects\cg\bin\Release\CG.exe.config
