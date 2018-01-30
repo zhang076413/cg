@@ -1,0 +1,9 @@
+D:\CSharpProjects\Bitmap\Bitmap\bin\Debug\Bitmap.exe.config
+D:\CSharpProjects\Bitmap\Bitmap\bin\Debug\Bitmap.exe
+D:\CSharpProjects\Bitmap\Bitmap\bin\Debug\Bitmap.pdb
+D:\CSharpProjects\Bitmap\Bitmap\obj\Debug\Bitmap.csprojResolveAssemblyReference.cache
+D:\CSharpProjects\Bitmap\Bitmap\obj\Debug\Bitmap.Form1.resources
+D:\CSharpProjects\Bitmap\Bitmap\obj\Debug\Bitmap.Properties.Resources.resources
+D:\CSharpProjects\Bitmap\Bitmap\obj\Debug\Bitmap.csproj.GenerateResource.Cache
+D:\CSharpProjects\Bitmap\Bitmap\obj\Debug\Bitmap.exe
+D:\CSharpProjects\Bitmap\Bitmap\obj\Debug\Bitmap.pdb
