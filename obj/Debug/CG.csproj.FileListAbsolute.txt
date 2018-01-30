@@ -1,1 +1,9 @@
 D:\CSharpProjects\CG\CG\bin\Debug\CG.exe.config
+D:\CSharpProjects\cg\bin\Debug\CG.exe.config
+D:\CSharpProjects\cg\bin\Debug\CG.exe
+D:\CSharpProjects\cg\bin\Debug\CG.pdb
+D:\CSharpProjects\cg\obj\Debug\CG.Properties.Resources.resources
+D:\CSharpProjects\cg\obj\Debug\CG.csproj.GenerateResource.Cache
+D:\CSharpProjects\cg\obj\Debug\CG.exe
+D:\CSharpProjects\cg\obj\Debug\CG.pdb
+D:\CSharpProjects\cg\obj\Debug\CG.Form1.resources
