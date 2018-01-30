@@ -10,7 +10,7 @@ using System.Threading.Tasks;
 
 namespace ObjTool
 {
-    class Programx
+    class ProgramX
     {
         public static System.Drawing.Bitmap drawBitmap()
         {
@@ -36,7 +36,7 @@ namespace ObjTool
         }
 
         //oparator
-        public static int operator *(face3 f3, Programx i)
+        public static int operator *(face3 f3, ProgramX i)
         {
 
             return 1;

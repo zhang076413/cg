@@ -1,13 +1,6 @@
-﻿using System;
-using System.Collections.Generic;
-using System.ComponentModel;
-using System.Data;
-using System.Drawing;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+﻿using ObjTool;
+using System;
 using System.Windows.Forms;
-using ObjTool;
 namespace CG
 {
     public partial class Form1 : Form
@@ -20,7 +13,7 @@ namespace CG
 
         private void Form1_Load(object sender, EventArgs e)
         {
-            this.pictureBox1.Image = Programx.drawBitmap();
+            this.pictureBox1.Image = ProgramX.drawBitmap();
          
         }
 
