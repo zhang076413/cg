@@ -47,6 +47,17 @@ namespace ObjTool
     }
 
 
+    class DrawingUtil{
+
+       public static void drawPrimate(Bitmap map){
+        }
+
+    }
+
+
+
+
+
     class Mesh
     {
         public List<v> v;

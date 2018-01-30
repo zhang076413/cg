@@ -7,20 +7,14 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
-using ObjTool;
-namespace Bitmap
+
+namespace CG
 {
     public partial class Form1 : Form
     {
         public Form1()
         {
             InitializeComponent();
-            this.pictureBox1.Image = Programx.drawBitmap();
-        }
-
-        private void pictureBox1_Click(object sender, EventArgs e)
-        {
-
         }
     }
 }

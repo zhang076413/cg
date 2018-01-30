@@ -8,7 +8,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace Bitmap.Properties
+namespace CG.Properties
 {
 
 
